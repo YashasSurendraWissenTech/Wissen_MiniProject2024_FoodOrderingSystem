@@ -1,4 +1,4 @@
-FROM node: //Insert the node version of your system.
+FROM node:20.11.1
 
 WORKDIR /app
 
